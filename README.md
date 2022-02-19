@@ -5,7 +5,7 @@
 - FFmpeg
 - NodeJS [nodesource.com](https://nodesource.com/)
 - Python 3.7+
-- [PyTgCalls](https://github.com/pytgcalls/pytgcalls)
+- [PyTgCalls](https://github.com/AbhayNarayanSingh123/pytgcalls)
 
 <h2 align="centre">⚙️ Set Up ⚙️</h3>
 
@@ -15,7 +15,7 @@
 
 Get STRING_NAME from here:
 
-[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://repl.it/@subinps/getStringName)
+[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://repl.it/AbhayNarayanSingh123/getStringName)
 
 ### Mandatory Vars.
 
@@ -31,4 +31,4 @@ Get STRING_NAME from here:
 - [Roj](https://github.com/rojserbest): main developer
 - [Marvin](https://github.com/BlackStoneReborn): bug reporter
 - [Laky](https://github.com/Laky-64) & [Andrew](https://github.com/AndrewLaneX): PyTgCalls
-- [Original Repo](https://github.com/suprojects/CallsMusic)
+- [Original Repo](https://github.com/AbhayNarayanSingh123/CallsMusic)
